@@ -31,6 +31,6 @@ Pi-managed lamp power — the lamp's light circuit is wired through the Pi so it
 
 Status: In progress for Hackclub Starhacks
 
-⚠️ Disclaimer:
+Disclaimer:
 
 This project is intended for personal use in spaces you own or have full rights to monitor (e.g. your own home/office). Always check local laws regarding recording and surveillance before deploying anything like this in spaces shared with others.
