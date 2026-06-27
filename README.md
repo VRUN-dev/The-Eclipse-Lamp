@@ -22,11 +22,17 @@ Lock-on: Instead of continuously tracking the person, the pan servo snaps to the
 Main features:
 
 Disguise-first design — built to look and function like an ordinary lamp
+
 Mechanical iris — servo-driven cover that opens/closes on a timed loop, mimicking a real camera aperture
+
 Idle pan sweep — slow side-to-side motion during downtime, no live feedback loop required
+
 On-device AI person detection — lightweight model (e.g. YOLOv8n, MobileNet-SSD, or Pi AI Camera) running locally on the Pi
+
 Push notifications — alerts sent to phone/computer on detection (e.g. via Pushover, ntfy, or a Telegram bot)
+
 Lock-on behavior — servo holds position at the last detected location instead of continuously tracking
+
 Pi-managed lamp power — the lamp's light circuit is wired through the Pi so it can be controlled as part of the system
 
 Status: In progress for Hackclub Starhacks
