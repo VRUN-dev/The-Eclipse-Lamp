@@ -16,7 +16,7 @@ If it is needed and the tolerences are too little and the gears dont mesh proper
 
 
 
-<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/4e5f6d46-9427-4021-a975-527f7ce3f27a" />
-<img width="400" height="500" alt="Screenshot 2026-06-27 173519" src="https://github.com/user-attachments/assets/a86f06f5-c0ef-4140-8418-eeada9042f11" />
+<img width="250" height="312.5" alt="image" src="https://github.com/user-attachments/assets/4e5f6d46-9427-4021-a975-527f7ce3f27a" />
+<img width="250" height="312" alt="Screenshot 2026-06-27 173519" src="https://github.com/user-attachments/assets/a86f06f5-c0ef-4140-8418-eeada9042f11" />
 
 
